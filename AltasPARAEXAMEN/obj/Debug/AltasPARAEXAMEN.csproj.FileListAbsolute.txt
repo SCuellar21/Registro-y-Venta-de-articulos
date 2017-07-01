@@ -1,0 +1,27 @@
+C:\SC\AltasPARAEXAMEN\AltasPARAEXAMEN\bin\Debug\AltasPARAEXAMEN.exe.config
+C:\SC\AltasPARAEXAMEN\AltasPARAEXAMEN\bin\Debug\AltasPARAEXAMEN.exe
+C:\SC\AltasPARAEXAMEN\AltasPARAEXAMEN\bin\Debug\AltasPARAEXAMEN.pdb
+C:\SC\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.csprojResolveAssemblyReference.cache
+C:\SC\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.Form1.resources
+C:\SC\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.Properties.Resources.resources
+C:\SC\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.csproj.GenerateResource.Cache
+C:\SC\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.exe
+C:\SC\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.pdb
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\AltasPARAEXAMEN\bin\Debug\AltasPARAEXAMEN.exe.config
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.exe
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.pdb
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\AltasPARAEXAMEN\bin\Debug\AltasPARAEXAMEN.exe
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\AltasPARAEXAMEN\bin\Debug\AltasPARAEXAMEN.pdb
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.Form1.resources
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\bin\Debug\AltasPARAEXAMEN.exe.config
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.exe
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.pdb
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\bin\Debug\AltasPARAEXAMEN.exe
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\bin\Debug\AltasPARAEXAMEN.pdb
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.Form1.resources
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\AltasPARAEXAMEN\AltasPARAEXAMEN\obj\Debug\AltasPARAEXAMEN.csproj.GenerateResource.Cache
